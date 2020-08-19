@@ -30,7 +30,7 @@ allprojects {
 changeTracker {
     tasks = ['lint']
     whitelist = [':app']
-    branch = "master"
+    branch = "master-test"
 }
 
 
